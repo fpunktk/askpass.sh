@@ -1,4 +1,4 @@
 askpass.sh
 ==========
 
-akspass script in bash
+akspass script in bash with visual feedback
